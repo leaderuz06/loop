@@ -1,0 +1,22 @@
+user 
+    userId
+    name
+    phone 
+
+
+ food 
+    foodId
+    name
+    img 
+
+order 
+    foodId
+    count   
+
+
+data moduling
+    relation
+    
+    1. one to one  (birga bir bog'lanish)
+    2. one to many (birga ko'p boglanish)
+    3. many to many (ko'pga ko'p bog'lanish)
